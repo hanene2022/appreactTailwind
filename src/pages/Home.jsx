@@ -1,13 +1,15 @@
+import { Fragment } from "react"
+import Landing from "../components/Landing"
 
 
 function Home() {
   return (
-    <div>
-      Home
-    </div>
+    <Fragment>
+      <Landing />
+    </Fragment>
   )
 }
 
-export default Home
+export default Home;
 
 

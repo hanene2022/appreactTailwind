@@ -19,7 +19,7 @@ else {headerRef.current.style.background="transparent";
   return (
    <header  ref={headerRef} className=" fixed  top-0  left-0  w-full
       z-50 pt-[60px] transition-all duration 200 " >
-    <div className="  container mx-auto flex
+    <div className="  container  flex
      justify-between items-center
       
      gap-[30px] sm:gap-0 flex-col sm:flex-row">
