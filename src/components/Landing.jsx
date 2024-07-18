@@ -33,6 +33,10 @@ function Landing() {
  </div>
  
       </div>
+      <div className="w-full h-[200px]">
+        <img src="/src/assets/images/bg-curvy-desktop.svg"  alt="img"
+        className="w-full h-full"/>
+      </div>
     </section>
   )
 }
