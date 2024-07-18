@@ -1,6 +1,7 @@
 import { Fragment } from "react"
 import Landing from "../components/Landing"
 import Features from "../components/Features";
+import StayProductive from "../components/StayProductive";
 
 
 function Home() {
@@ -8,6 +9,7 @@ function Home() {
     <Fragment>
       <Landing />
       <Features />
+      <StayProductive />
     </Fragment>
   )
 }
